@@ -1,0 +1,9 @@
+language: en-US
+reviews:
+  tools:
+    prismaLint:
+      enabled: true
+    luacheck:
+      enabled: true
+    eslint:
+      enabled: true
